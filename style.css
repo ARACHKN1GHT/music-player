@@ -18,7 +18,7 @@ nav{
 nav ul{
     display: flex;
     height: 40px;
-    background-color: black;
+    background-color:white;
     color: white;
     list-style-type: none;
     font-weight: 100;
